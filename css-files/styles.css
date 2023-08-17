@@ -88,12 +88,14 @@ nav,
 .first-container-mini-container {
   margin-top: 25px;
 }
+
 .first-container-mini-container p {
   color: #5d87a8;
   font-size: 16px;
   line-height: 1.5;
 }
-.first-container-mini-container a {
+.first-container-mini-container a,
+.section-one-first-container a {
   color: #af48ff;
 }
 .first-container-right {
